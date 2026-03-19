@@ -8,19 +8,14 @@ Currently working with **Python**, **pandas**, **SQL**, and  **machine learning 
 
 ---
 
-## 🔭 What I'm Working On
-- Manufacturing analytics pipeline: sensor data → failure prediction → OEE dashboards
-- Expanding into data pipeline orchestration and cloud-based data infrastructure
-
 ## 🌱 Currently Learning
 - Apache Kafka & real-time data streaming
 - Cloud data platforms (Azure / AWS)
 - ML model deployment & MLOps basics
 
 ## 🎯 Where I'm Headed
-> Data Analyst → **Data Engineer** → **Data Scientist**
->
-> I believe understanding the full data stack — from ingestion to insights — makes for better engineers and better analysts.
+> Data Analyst ~ **Data Engineer**  \ **Data Scientist**
+
 
 ---
 
@@ -30,25 +25,18 @@ Currently working with **Python**, **pandas**, **SQL**, and  **machine learning 
 `Python` `pandas` `NumPy` `SciPy` `Seaborn` `Matplotlib`
 
 **Data Engineering (Learning)**
-`Apache Kafka` `SQL` `Apache airflow` 'pandas' 'pyspark' 'python' 'Rest API' 'snowflake' 'spark'
+' DataBricks' `Apache Kafka` `SQL` `Apache airflow` 'pandas' 'pyspark' 'python' 'Rest API' 'snowflake' 'spark'
 
 **Domains**
-'Service delivery outsourcing scenario' 
+'Service Delivery' 
 'Employee effeciency & decision making' 
 'Human resource delivery'
 `Manufacturing Analytics` `Predictive Maintenance` `OEE` `Time-Series Data`
+'Finance Modulation & Tailored Solution' 
 
 
 ---
 
-## 📌 Featured Project
-
-### 🏭 [Manufacturing Analytics — Predictive Maintenance & OEE](https://github.com/your-username/DA_Proj)
-> End-to-end analysis of IoT sensor data, maintenance logs, and production records to detect failure patterns and compute Overall Equipment Effectiveness (OEE).
-- Cleaned and merged 4 data sources (sensors, maintenance, production, machine master)
-- Engineered features: rolling temperature mean, vibration spike flags, hours-before-failure
-- Computed KPIs: defect rate, availability, quality score, OEE
-- **Stack:** Python · pandas · SciPy · Seaborn
 
 ---
 
