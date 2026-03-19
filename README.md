@@ -4,7 +4,7 @@
 
 I transform raw, messy data into actionable insights — and I'm building toward designing the pipelines and models that power them.
 
-Currently working with **Python**, **pandas**, **SQL**, and **machine learning fundamentals** to solve real-world problems in manufacturing analytics, predictive maintenance, and OEE optimization.
+Currently working with **Python**, **pandas**, **SQL**, and  **machine learning fundamentals** to solve real-world problems in manufacturing analytics, predictive maintenance, and OEE optimization.
 
 ---
 
@@ -30,10 +30,14 @@ Currently working with **Python**, **pandas**, **SQL**, and **machine learning f
 `Python` `pandas` `NumPy` `SciPy` `Seaborn` `Matplotlib`
 
 **Data Engineering (Learning)**
-`Apache Kafka` `SQL` `Git`
+`Apache Kafka` `SQL` `Apache airflow` 'pandas' 'pyspark' 'python' 'Rest API' 'snowflake' 'spark'
 
 **Domains**
+'Service delivery outsourcing scenario' 
+'Employee effeciency & decision making' 
+'Human resource delivery'
 `Manufacturing Analytics` `Predictive Maintenance` `OEE` `Time-Series Data`
+
 
 ---
 
