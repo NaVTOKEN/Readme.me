@@ -41,17 +41,3 @@ Data Integration: Merging disparate CSV files on common keys (machine_id, timest
 Handling Missing Values: Using forward-fill techniques for continuous sensor readings and zero-filling for production gaps.
 KPI Calculation: Deriving complex metrics like OEE using structured Pandas operations.
 
-Project Structure
-
-manufacturing_machine_sensor_analytics/
-├── data/
-│   ├── raw/
-│   │   ├── machine_master.csv
-│   │   ├── maintenance_logs.csv
-│   │   ├── production_logs.csv
-│   │   └── sensor_data.csv
-│   └── processed/
-│       ├── final_manufacturing_analytics.csv
-│       └── final_manufacturing_analytics_handled_NaN.csv
-├── manufacturing_sensor_analysis.ipynb
-└── README.md
