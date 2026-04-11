@@ -1,0 +1,16 @@
+machine_id,plant,machine_type,install_year
+M101,Plant_A,CNC,2016
+M102,Plant_A,Press,2015
+M103,Plant_A,Lathe,2018
+M104,Plant_A,Welding,2017
+M105,Plant_B,CNC,2019
+M106,Plant_B,Press,2014
+M107,Plant_B,Lathe,2016
+M108,Plant_B,Welding,2020
+M109,Plant_C,CNC,2013
+M110,Plant_C,Press,2017
+M111,Plant_C,Lathe,2018
+M112,Plant_C,Welding,2015
+M113,Plant_A,CNC,2021
+M114,Plant_B,Press,2022
+M115,Plant_C,Lathe,2019
